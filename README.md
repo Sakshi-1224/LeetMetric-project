@@ -10,4 +10,4 @@ LeetMetric is a web-based application that allows you to quickly fetch and displ
 - CSS: Styling the interface.
 - JavaScript: Handling logic and API integration.
 ## Live Demo
-Check out the live demo: [LeetMetric-project]https://sakshi-1224.github.io/LeetMetric-project/
+Check out the live demo: [LeetMetric-project](https://sakshi-1224.github.io/LeetMetric-project/)
